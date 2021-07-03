@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Samuele-nega
 - 👀 I’m interested in this website
-- 🌱 I’m currently learning cs in werabe university
+- 🌱 I’m currently learning cs at werabe university ehtiopia
+- 🌰 I went to be fruitfull in programing
 
 
 <!---
